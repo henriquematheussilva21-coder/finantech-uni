@@ -14,3 +14,6 @@ build/
 # Arquivos temporários
 *.tmp
 *.temp
+
+.flutter-plugins-dependencies
+.flutter-plugins
